@@ -12,35 +12,14 @@
 <p>
   <strong>Programming Languages</strong><br/><br/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=cpp,csharp,rust,javascript,html,css" />
-  </a>
-</p>
-
-<p>
-  <strong>Frameworks & UI</strong><br/><br/>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=dotnet,tauri" />
-  </a>
-</p>
-
-<p>
-  <strong>Editors / IDEs</strong><br/><br/>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,rider" />
-  </a>
-</p>
-
-<p>
-  <strong>Operating Systems</strong><br/><br/>
-  <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=windows" />
+    <img src="https://skills.syvixor.com/api/icons?i=cpp,assembly,csharp,xaml,python" />
   </a>
 </p>
 
 ## Contact
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=c4rguy&color=grey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=c4rguy&color=grey" alt="Profile views" />
   <a href="mailto:your@email.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white" />
   </a>
