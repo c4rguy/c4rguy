@@ -40,7 +40,7 @@
 ## Contact
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=c4rguy&color=grey" />
+<img src="https://komarev.com/ghpvc/?username=c4rguy&color=grey" alt="Profile views" />
   <a href="mailto:your@email.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white" />
   </a>
