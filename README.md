@@ -12,7 +12,7 @@
 <p>
   <strong>Programming Languages</strong><br/><br/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=cpp,assembly,csharp,xaml,python" />
+    <img src="https://skills.syvixor.com/api/icons?i=cpp,csharp,assembly,xaml,figma" />
   </a>
 </p>
 
